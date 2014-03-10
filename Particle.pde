@@ -1,4 +1,6 @@
 int SIZE = 7, COUNT = 0; //malpractice //wtf
+
+
 class Particle{
   PVector pos;
   float amp;
